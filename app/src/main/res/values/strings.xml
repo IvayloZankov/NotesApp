@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="action_add_note">Add new note</string>
+    <string name="add_new_note">Add new note…</string>
+    <string name="first_fragment_label">NotesListFragment</string>
+    <string name="second_fragment_label">NoteDetailsFragment</string>
+    <string name="message_title">title</string>
+    <string name="message_text">message</string>
+    <string name="exit_toast">Click BACK again to exit</string>
+    <string name="alert_detele_title">Delete note?</string>
+    <string name="alert_delete_text">Are you sure you want to delete this note?</string>
+    <string name="alert_delete_yes">YES</string>
+    <string name="alert_delete_cancel">CANCEL</string>
+
+</resources>
